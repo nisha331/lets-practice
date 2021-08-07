@@ -1,4 +1,3 @@
-![a](https://user-images.githubusercontent.com/76838660/128598423-9693047d-9a4c-4f44-9941-e4be5bbf2210.PNG)
 # Welcome 🖐 to Lets Practice
 
 This webapp is basically for kids to practice addition, substraction, multiplication and division.
