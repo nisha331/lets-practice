@@ -1,3 +1,4 @@
+![a](https://user-images.githubusercontent.com/76838660/128598423-9693047d-9a4c-4f44-9941-e4be5bbf2210.PNG)
 # Welcome 🖐 to Lets Practice
 
 This webapp is basically for kids to practice addition, substraction, multiplication and division.
@@ -37,6 +38,9 @@ the a
 
 It somehow look like this.
 
+![a](https://user-images.githubusercontent.com/76838660/128598434-f516f5dc-d37a-47d5-9cf3-2558687efeab.PNG)
+![s](https://user-images.githubusercontent.com/76838660/128598436-15890da5-274c-4c72-b87a-648b93f1fb12.PNG)
+![d](https://user-images.githubusercontent.com/76838660/128598437-d4a38186-9eba-4d61-9074-f429e6c1b8da.PNG)
 
 
 ## Happy Coding!
